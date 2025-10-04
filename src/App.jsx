@@ -9,7 +9,7 @@ const OPENWEATHER_API_KEY = 'a023fe2b6ae44cff706475967ab7c7c6';
 const IMAGES = {
   banner: 'https://media.cntraveller.com/photos/673763550788484ddcc59ca0/3:2/w_8190,h_5460,c_limit/Hungary-Budapest-GettyImages-2156020912.jpeg',
   gozsdu: 'https://travelprnews.com/wp-content/uploads/2018/12/unnamed-6.jpg',
-  parliament: 'https://assets.bucketlistly.blog/sites/5adf778b6eabcc00190b75b1/content_entry5adf77af6eabcc00190b75b6/5ae464628eaf2a001938afc1/files/budapest-one-day-guide-main-image-hd-op.webp',
+  parliament: 'https://www.budapest.org/en/wp-content/uploads/sites/101/parliament-budapest-hungary-hd.jpg',
   fisherman: 'https://www.rjontour.com/wp-content/uploads/2024/08/Early-Morning-at-Fishermans-Bastion.jpg',
   buda: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/e4/b1/d2/caption.jpg?w=1200&h=-1&s=1&cx=3510&cy=2343&chk=v1_7fb25476f22ec2fdc752',
   szentendre: 'https://pohcdn.com/sites/default/files/styles/paragraph__live_banner__lb_image__1880bp/public/live_banner/Szentendre.jpg',

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 // API Keys
 const GOOGLE_TRANSLATE_API_KEY = 'AIzaSyDbslFWVHP3f8D42vJ5Uh1RwBJk13FRaes';
-const GOOGLE_MAPS_API_KEY = 'AIzaSyC9-huYIhO18biYVhUpEHd2Dm_eBS2tkK0';
+const GOOGLE_MAPS_API_KEY = 'AIzaSyDbslFWVHP3f8D42vJ5Uh1RwBJk13FRaes';
 const OPENWEATHER_API_KEY = 'a023fe2b6ae44cff706475967ab7c7c6';
 
 // Image URLs

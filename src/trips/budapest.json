@@ -1,0 +1,524 @@
+{
+  "id": "budapest-nov-2025",
+  "city": "Budapest",
+  "country": "Hungary",
+  "title": "Budapest, 17-21 Nov 2025",
+  "subtitle": "A long weekend exploring Budapest's backstreets, thermal baths, and golden hour along the Danube.",
+  "dateRange": "Monday 17th - Friday 21st November, 2025",
+  "timezone": "Europe/Budapest",
+  "coordinates": { "lat": 47.4979, "lng": 19.0402 },
+  "theme": {
+    "primaryColor": "#DE7356",
+    "primaryHover": "#CC6545",
+    "secondaryColor": "#A0522D",
+    "secondaryHover": "#8B4513",
+    "accentBg": "#FCEBE6",
+    "sidebarBg": "#f8f7f2"
+  },
+  "images": {
+    "banner": "https://media.cntraveller.com/photos/673763550788484ddcc59ca0/3:2/w_8190,h_5460,c_limit/Hungary-Budapest-GettyImages-2156020912.jpeg",
+    "bannerAlt": "Budapest Parliament from Pest embankment at golden hour",
+    "bannerFallback": "Budapest+Parliament",
+    "dayImages": {
+      "day1": {
+        "src": "https://travelprnews.com/wp-content/uploads/2018/12/unnamed-6.jpg",
+        "alt": "Gozsdu passages neon reflections",
+        "fallback": "Gozsdu+Passage"
+      },
+      "day2": {
+        "src": "https://www.budapest.org/en/wp-content/uploads/sites/101/parliament-budapest-hungary-hd.jpg",
+        "alt": "Parliament from Pest embankment at golden hour",
+        "fallback": "Parliament+View"
+      },
+      "day3": [
+        {
+          "src": "https://www.rjontour.com/wp-content/uploads/2024/08/Early-Morning-at-Fishermans-Bastion.jpg",
+          "alt": "Fisherman's Bastion side streets and arches, quiet angles",
+          "fallback": "Fishermans+Bastion",
+          "position": "top"
+        },
+        {
+          "src": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/e4/b1/d2/caption.jpg?w=1200&h=-1&s=1&cx=3510&cy=2343&chk=v1_7fb25476f22ec2fdc752",
+          "alt": "Buda embankment long view to Parliament",
+          "fallback": "Buda+Embankment",
+          "position": "mid"
+        }
+      ],
+      "day4": [
+        {
+          "src": "https://pohcdn.com/sites/default/files/styles/paragraph__live_banner__lb_image__1880bp/public/live_banner/Szentendre.jpg",
+          "alt": "Szentendre Fő tér cobbles and Danube promenade",
+          "fallback": "Szentendre",
+          "position": "top"
+        },
+        {
+          "src": "https://welovebudapest.com/i/7a/november-2019-csudai-sandor-0006.exact1980w.jpg",
+          "alt": "Liberty Bridge silhouettes at blue hour",
+          "fallback": "Liberty+Bridge",
+          "position": "mid"
+        }
+      ]
+    }
+  },
+  "translation": {
+    "sourceLang": "en",
+    "targetLang": "hu",
+    "sourceLabel": "English",
+    "targetLabel": "Hungarian",
+    "sourcePlaceholder": "Type in English...",
+    "targetPlaceholder": "Írj magyarul...",
+    "commonPhrases": "Szia (Hello) • Köszönöm (Thank you) • Mennyibe kerül? (How much?)"
+  },
+  "currency": {
+    "home": { "code": "GBP", "symbol": "£", "label": "GBP (£)" },
+    "local": { "code": "HUF", "symbol": "Ft", "label": "HUF (Ft)" },
+    "defaultHomeAmount": "100",
+    "defaultLocalAmount": "45000",
+    "defaultRate": 450
+  },
+  "accommodation": {
+    "name": "Bright Loft",
+    "address": "Klauzál tér 6, 1072",
+    "checkIn": "15:00 on 17 Nov",
+    "checkOut": "10:00 on 21 Nov",
+    "instructions": "Self check-in via lockbox.",
+    "searchQuery": "Klauzal+ter+6+Budapest"
+  },
+  "flights": {
+    "outbound": {
+      "airline": "Wizz Air",
+      "flightNumber": "W6 2222",
+      "route": "LGW → BUD",
+      "date": "Mon 17 Nov",
+      "times": "09:20 → 12:45"
+    },
+    "return": {
+      "airline": "easyJet",
+      "flightNumber": "U28732",
+      "route": "BUD → LGW",
+      "date": "Fri 21 Nov",
+      "times": "10:25 → 12:15"
+    }
+  },
+  "transport": {
+    "airportTransfer": {
+      "name": "100E Airport Express",
+      "details": "Terminal 2 to Deák Ferenc tér, approx 2,200 HUF. Buy on BudapestGO app or BKK machines.",
+      "note": "Special 100E single ticket only, not valid on other lines. Allow 90 mins buffer at BUD."
+    },
+    "gettingAround": {
+      "modes": "Walking, metro, trams, official airport buses only.",
+      "app": "BudapestGO",
+      "appNote": "Use BudapestGO app for tickets and journey planning. HÉV H5 to Szentendre needs suburban add-on beyond city limits."
+    }
+  },
+  "weather": {
+    "summary": "Short daylight, golden hour around 16:00. Chilly single digits, near-freezing nights, possible showers and wind. Pack layers.",
+    "monthLabel": "November"
+  },
+  "packing": "Layers over bulk, compact umbrella, scarf and beanie, light gloves, trainers with grip for damp cobbles, microfibre towel for baths, spare phone battery for the cold.",
+  "farewell": "Hope you had an amazing time in Budapest, Ryan!",
+  "footer": "Have an amazing trip to Budapest!",
+  "alternatives": {
+    "Fricska 2.0": {
+      "name": "Dobrumba",
+      "address": "Dob utca 5",
+      "why": "Stylish Levantine, comfortable seating with aromatic share plates.",
+      "dishes": "Lamb shawarma, mezze platters.",
+      "prices": "Mains ~3,500-6,000 HUF"
+    },
+    "Boutiq'Bar": {
+      "name": "Tuk Tuk Bar",
+      "address": "Hold utca 5",
+      "why": "Travel vibe with edge, balanced crowd, tight cocktail builds.",
+      "drinks": "Penang Mule, Bangkok Nights.",
+      "prices": "Cocktails ~3,500-4,500 HUF"
+    },
+    "Café Kör": {
+      "name": "Két Szerecsen",
+      "address": "Nagymező utca 14",
+      "why": "Stylish bistro done right, duck breast and seafood risotto.",
+      "dishes": "Duck breast, veal paprikash.",
+      "prices": "Mains ~4,500-7,500 HUF"
+    },
+    "Rosenstein Vendéglő": {
+      "name": "Pest-Buda Bistro",
+      "address": "Fortuna utca 3",
+      "why": "Castle district comfort with warm service and intimate room.",
+      "dishes": "Chicken paprikash, goulash.",
+      "prices": "Mains ~4,000-7,000 HUF"
+    },
+    "Pest-Buda Bistro": {
+      "name": "Café Kör",
+      "address": "Sas utca 17",
+      "why": "Old-world Pest, civilised, bookable, dependable classic.",
+      "dishes": "Veal paprikash, classic Hungarian dishes.",
+      "prices": "Mains ~4,500-8,000 HUF"
+    },
+    "Két Szerecsen": {
+      "name": "Dobrumba",
+      "address": "Dob utca 5",
+      "why": "Levantine aromatic plates in stylish setting.",
+      "dishes": "Lamb dishes, share plates.",
+      "prices": "Mains ~3,500-6,000 HUF"
+    },
+    "Hotsy Totsy Budapest": {
+      "name": "Boutiq'Bar",
+      "address": "Paulay Ede utca 5",
+      "why": "Benchmark mixing, moody room, serious drinks.",
+      "drinks": "Basil Smash, Smoked Old Fashioned.",
+      "prices": "Cocktails ~3,500-5,000 HUF"
+    },
+    "Tuk Tuk Bar": {
+      "name": "Hotsy Totsy Budapest",
+      "address": "Nagymező utca 8",
+      "why": "Vinyl, low light, crafted classics with edge.",
+      "drinks": "New York Sour, classic cocktails.",
+      "prices": "Cocktails ~3,500-4,800 HUF"
+    }
+  },
+  "days": [
+    {
+      "id": "day1",
+      "dayNum": 1,
+      "date": "2025-11-17",
+      "title": "Arrival & First Evening Photowalk",
+      "walkingEstimate": "5-6 km",
+      "locations": [
+        { "name": "Klauzál tér", "lat": 47.4959, "lng": 19.0625, "type": "accommodation", "address": "Klauzál tér 6, 1072 Budapest" },
+        { "name": "Gozsdu Passage", "lat": 47.4970, "lng": 19.0605, "type": "attraction", "address": "Dob utca, Budapest" },
+        { "name": "Fricska 2.0", "lat": 47.4950, "lng": 19.0638, "type": "restaurant", "address": "District VII, Budapest" },
+        { "name": "Boutiq'Bar", "lat": 47.4985, "lng": 19.0580, "type": "bar", "address": "Paulay Ede utca 5, Budapest" }
+      ],
+      "activities": [
+        { "id": "day1-airport", "name": "Airport transfer to accommodation" },
+        { "id": "day1-photowalk", "name": "Evening photowalk (Klauzál tér → Gozsdu)" },
+        { "id": "day1-dinner", "name": "Dinner at Fricska 2.0" },
+        { "id": "day1-cocktails", "name": "Cocktails at Boutiq'Bar" }
+      ],
+      "sections": [
+        {
+          "type": "image",
+          "imageKey": "day1"
+        },
+        {
+          "type": "text",
+          "title": "Airport → Klauzál tér 6",
+          "content": "Route: **100E Airport Express** to **Deák Ferenc tér** then walk about 12 mins to the door. Use the 100E single ticket. If rain is heavy, allow 5 extra mins for slower pavements."
+        },
+        { "type": "divider" },
+        {
+          "type": "text",
+          "title": "Relaxed first evening photowalk",
+          "content": "Loop: Klauzál tér → Rákóczi út side streets → Király utca textures → Gozsdu passages neon → Kazinczy utca murals → home.",
+          "wet": "Budapest Pinball Museum for late opening and warm indoor atmosphere."
+        },
+        { "type": "divider" },
+        {
+          "type": "venue",
+          "venueName": "Fricska 2.0",
+          "heading": "Dinner at Fricska 2.0",
+          "time": "19:30",
+          "address": "District VII, Budapest",
+          "searchQuery": "Fricska+2.0+Budapest",
+          "description": "Modern Hungarian bistro, polished but not pretentious, near base. Duck leg with red cabbage is exceptional.",
+          "descriptionLabel": "Why it fits you:",
+          "rating": "Google 4.6",
+          "priceLabel": "Prices",
+          "prices": "Mains approximately 4,500-7,500 HUF (£10-£17)."
+        },
+        {
+          "type": "venue",
+          "venueName": "Boutiq'Bar",
+          "heading": "Cocktails at Boutiq'Bar",
+          "time": "21:30",
+          "address": "Paulay Ede utca 5, Budapest",
+          "searchQuery": "Boutiq+Bar+Budapest",
+          "description": "Benchmark mixing, moody room, serious drinks, proper seating. Try a Basil Smash.",
+          "descriptionLabel": "Why it fits you:",
+          "priceLabel": "Drinks",
+          "prices": "Cocktails 3,500-5,000 HUF (£8-£11)."
+        }
+      ]
+    },
+    {
+      "id": "day2",
+      "dayNum": 2,
+      "date": "2025-11-18",
+      "title": "Parliament Edges & Danube Light",
+      "walkingEstimate": "approximately 11 km",
+      "locations": [
+        { "name": "Klauzál Market", "lat": 47.4961, "lng": 19.0627, "type": "attraction", "address": "Klauzál tér, Budapest" },
+        { "name": "Café Kör", "lat": 47.5005, "lng": 19.0515, "type": "restaurant", "address": "Sas utca 17, Budapest" },
+        { "name": "Parliament Building", "lat": 47.5076, "lng": 19.0458, "type": "attraction", "address": "Kossuth Lajos tér, Budapest" },
+        { "name": "Rosenstein Vendéglő", "lat": 47.4810, "lng": 19.0921, "type": "restaurant", "address": "Mosonyi utca 3, Budapest" },
+        { "name": "Hotsy Totsy Budapest", "lat": 47.5025, "lng": 19.0621, "type": "bar", "address": "Nagymező utca 8, Budapest" }
+      ],
+      "activities": [
+        { "id": "day2-market", "name": "Klauzál Market and nearby lanes" },
+        { "id": "day2-lunch", "name": "Lunch at Café Kör" },
+        { "id": "day2-lipotvaros", "name": "Lipótváros grid to Kossuth Lajos tér" },
+        { "id": "day2-goldenhour", "name": "Golden hour: Pest embankment" },
+        { "id": "day2-dinner", "name": "Dinner at Rosenstein Vendéglő" },
+        { "id": "day2-cocktails", "name": "Cocktails at Hotsy Totsy" }
+      ],
+      "sections": [
+        { "type": "image", "imageKey": "day2" },
+        {
+          "type": "text",
+          "content": "**10:30** Klauzál Market and nearby lanes for local life and textures.",
+          "wet": "House of Music Hungary foyer and interior forms."
+        },
+        { "type": "divider" },
+        {
+          "type": "venue",
+          "venueName": "Café Kör",
+          "heading": "Lunch near Basilica at Café Kör",
+          "time": "12:30",
+          "address": "Sas utca 17, Budapest",
+          "searchQuery": "Cafe+Kor+Budapest",
+          "description": "Old-world, civilised, bookable. Veal paprikash is excellent.",
+          "descriptionLabel": "Why it fits you:",
+          "rating": "Google 4.6",
+          "priceLabel": "Prices",
+          "prices": "Mains 4,500-8,000 HUF (£10-£18)."
+        },
+        { "type": "divider" },
+        {
+          "type": "text",
+          "content": "**14:00** Lipótváros grid to **Kossuth Lajos tér** with **Szabadság tér** and Hold utca facades.",
+          "wet": "Parliament interior tour if available that afternoon."
+        },
+        {
+          "type": "text",
+          "title": "15:30-16:45 Golden hour",
+          "content": "Pest embankment north of Parliament and **Margit híd** perspectives.",
+          "wet": "Budapest Pinball Museum pre-dinner warm-up."
+        },
+        { "type": "divider" },
+        {
+          "type": "venue",
+          "venueName": "Rosenstein Vendéglő",
+          "heading": "Dinner at Rosenstein Vendéglő",
+          "time": "19:30",
+          "address": "Mosonyi utca 3, Budapest",
+          "searchQuery": "Rosenstein+Vendegl%C5%91+Budapest",
+          "description": "Hungarian-Jewish family institution with depth and genuine hospitality. Goose liver or cholent are standouts.",
+          "descriptionLabel": "Why it fits you:",
+          "rating": "Approximately 4.6",
+          "priceLabel": "Prices",
+          "prices": "Mains 5,000-9,000 HUF (£11-£20)."
+        },
+        {
+          "type": "venue",
+          "venueName": "Hotsy Totsy Budapest",
+          "heading": "Cocktails at Hotsy Totsy Budapest",
+          "time": "21:45",
+          "address": "Nagymező utca 8, Budapest",
+          "searchQuery": "Hotsy+Totsy+Budapest",
+          "description": "Vinyl, low light, crafted classics with edge without attitude. Try a New York Sour.",
+          "descriptionLabel": "Why it fits you:",
+          "priceLabel": "Drinks",
+          "prices": "Cocktails 3,500-4,800 HUF (£8-£11)."
+        }
+      ]
+    },
+    {
+      "id": "day3",
+      "dayNum": 3,
+      "date": "2025-11-19",
+      "title": "Buda Streets, Viewpoints & Steam",
+      "walkingEstimate": "approximately 10 km",
+      "locations": [
+        { "name": "Batthyány tér", "lat": 47.5067, "lng": 19.0374, "type": "station", "address": "Batthyány tér, Budapest" },
+        { "name": "Fisherman's Bastion", "lat": 47.5025, "lng": 19.0345, "type": "attraction", "address": "Szentháromság tér, Budapest" },
+        { "name": "Pest-Buda Bistro", "lat": 47.5014, "lng": 19.0339, "type": "restaurant", "address": "Fortuna utca 3, Budapest" },
+        { "name": "Rudas Baths", "lat": 47.4878, "lng": 19.0522, "type": "spa", "address": "Döbrentei tér 9, Budapest" },
+        { "name": "Két Szerecsen", "lat": 47.5030, "lng": 19.0595, "type": "restaurant", "address": "Nagymező utca 14, Budapest" },
+        { "name": "Tuk Tuk Bar", "lat": 47.5015, "lng": 19.0525, "type": "bar", "address": "Hold utca 5, Budapest" }
+      ],
+      "activities": [
+        { "id": "day3-buda", "name": "Metro to Batthyány tér, Fő utca lanes" },
+        { "id": "day3-bastion", "name": "Fisherman's Bastion quiet paths" },
+        { "id": "day3-lunch", "name": "Lunch at Pest-Buda Bistro" },
+        { "id": "day3-goldenhour", "name": "Golden hour: Buda embankment" },
+        { "id": "day3-baths", "name": "Thermal soak at Rudas or Veli Bej" },
+        { "id": "day3-dinner", "name": "Dinner at Két Szerecsen" },
+        { "id": "day3-cocktails", "name": "Cocktails at Tuk Tuk Bar" }
+      ],
+      "sections": [
+        { "type": "image", "imageKey": "day3", "imageIndex": 0 },
+        {
+          "type": "text",
+          "content": "**11:00** Metro to **Batthyány tér**, amble **Fő utca** lanes, climb quiet paths around **Fisherman's Bastion** for arches away from the terraces.",
+          "wet": "Matthias Church cloisters or shift to House of Music."
+        },
+        { "type": "divider" },
+        {
+          "type": "venue",
+          "venueName": "Pest-Buda Bistro",
+          "heading": "Lunch in the Castle District at Pest-Buda Bistro",
+          "time": "13:15",
+          "address": "Fortuna utca 3, Budapest",
+          "searchQuery": "Pest-Buda+Bistro+Budapest",
+          "description": "Intimate room, warm service. Goulash then chicken paprikash is the winning move.",
+          "descriptionLabel": "Why it fits you:",
+          "rating": "Google 4.2",
+          "priceLabel": "Prices",
+          "prices": "Mains 4,000-7,000 HUF (£9-£16)."
+        },
+        { "type": "image", "imageKey": "day3", "imageIndex": 1 },
+        { "type": "divider" },
+        {
+          "type": "text",
+          "title": "15:00-16:30 Golden hour",
+          "content": "**Buda embankment** for Parliament reflections, then towards **Erzsébet Bridge** lines.",
+          "wet": "Zwack Unicum Museum and tasting in District IX."
+        },
+        {
+          "type": "text",
+          "title": "17:30 Thermal soak",
+          "content": "**Rudas Baths** - Ottoman dome, rooftop hot pool, central location.\n\nor **Veli Bej (Császár)** - calmer 16th-century hammam feel with timed entries.",
+          "note": "Choose based on mood and energy."
+        },
+        { "type": "divider" },
+        {
+          "type": "venue",
+          "venueName": "Két Szerecsen",
+          "heading": "Dinner at Két Szerecsen",
+          "time": "20:15",
+          "address": "Nagymező utca 14, Budapest",
+          "searchQuery": "K%C3%A9t+Szerecsen+Budapest",
+          "description": "Stylish yet relaxed. Duck breast or seafood risotto, both excellent.",
+          "descriptionLabel": "Why it fits you:",
+          "rating": "Google 4.5",
+          "priceLabel": "Prices",
+          "prices": "Mains 4,500-7,500 HUF (£10-£17)."
+        },
+        {
+          "type": "venue",
+          "venueName": "Tuk Tuk Bar",
+          "heading": "Cocktails at Tuk Tuk Bar",
+          "time": "22:30",
+          "address": "Hold utca 5, Budapest",
+          "searchQuery": "Tuk+Tuk+Bar+Budapest",
+          "description": "Tight builds, proper seating. Try Bangkok Nights.",
+          "descriptionLabel": "Why it fits you:",
+          "priceLabel": "Drinks",
+          "prices": "Cocktails 3,500-4,500 HUF (£8-£10)."
+        }
+      ]
+    },
+    {
+      "id": "day4",
+      "dayNum": 4,
+      "date": "2025-11-20",
+      "title": "Day Trip: Szentendre or Vác",
+      "walkingEstimate": "approximately 9 km",
+      "locations": [
+        { "name": "Batthyány tér (HÉV H5)", "lat": 47.5067, "lng": 19.0374, "type": "station", "address": "Batthyány tér, Budapest" },
+        { "name": "Szentendre", "lat": 47.6686, "lng": 19.0751, "type": "attraction", "address": "Szentendre, Hungary" },
+        { "name": "Liberty Bridge", "lat": 47.4876, "lng": 19.0543, "type": "attraction", "address": "Szabadság híd, Budapest" },
+        { "name": "Chain Bridge", "lat": 47.4984, "lng": 19.0435, "type": "attraction", "address": "Széchenyi lánchíd, Budapest" }
+      ],
+      "activities": [
+        { "id": "day4-daytrip", "name": "Day trip to Szentendre (or Vác if bad weather)" },
+        { "id": "day4-lunch", "name": "Lunch at Aranysárkány Vendéglő" },
+        { "id": "day4-return", "name": "Return to Pest for blue hour" },
+        { "id": "day4-bridges", "name": "Liberty Bridge and Chain Bridge silhouettes" },
+        { "id": "day4-dinner", "name": "Dinner at Fricska 2.0 or Rosenstein" },
+        { "id": "day4-cocktails", "name": "Final cocktail at Boutiq'Bar" }
+      ],
+      "sections": [
+        { "type": "image", "imageKey": "day4", "imageIndex": 0 },
+        {
+          "type": "optionBox",
+          "title": "Default: Szentendre (if weather fair)",
+          "blocks": [
+            { "title": "Getting there", "content": "**HÉV H5** from **Batthyány tér** to **Szentendre**, every approximately 20 mins, approximately 39 mins. Use city ticket inside limits plus the **H5 suburban add-on** for Békásmegyer-Szentendre. Buy on BudapestGO or BKK machines." },
+            { "title": "Loop 11:00-16:00", "content": "**Fő tér** cobbles → Serbian Orthodox Church yard textures → meander Ráby and Main Street lanes → **Danube promenade** for long frames → optional **Retro Design Center** for quirky interiors → back via shopfronts." },
+            { "content": "**Lunch 13:00: Aranysárkány Vendéglő** - venison or duck (warm dining room away from the day-trip clusters)." },
+            { "content": "_Wet-weather tilt: Focus on galleries, Margit Kovács Ceramic Museum, arcades, and a shorter promenade window._" }
+          ]
+        },
+        { "type": "image", "imageKey": "day4", "imageIndex": 1 },
+        { "type": "divider" },
+        {
+          "type": "text",
+          "title": "Back in Pest by approximately 17:30",
+          "content": "**Liberty Bridge** silhouettes then **blue hour on the Danube Promenade**.",
+          "note": "Chain Bridge pedestrian access worth a pass in blue hour."
+        },
+        { "type": "divider" },
+        {
+          "type": "simpleVenue",
+          "heading": "Dinner 19:30",
+          "content": "Return to **Fricska 2.0** or **Rosenstein** as main choices.\n\nBack-ups: Dobrumba, Két Szerecsen."
+        },
+        {
+          "type": "simpleVenue",
+          "heading": "Cocktail 22:00 at Boutiq'Bar",
+          "address": "Paulay Ede utca 5",
+          "searchQuery": "Boutiq+Bar+Budapest",
+          "content": "Finish strong with a Smoked Old Fashioned."
+        },
+        { "type": "divider" },
+        {
+          "type": "optionBox",
+          "title": "Bad-weather alternative: Vác",
+          "blocks": [
+            { "title": "Getting there", "content": "**MÁV** suburban trains from **Nyugati** about every 20 mins, approximately 35-40 mins." },
+            { "title": "Compact loop", "content": "**Március 15. tér** → Baroque main square and Cathedral facade → **Danube promenade** boardwalk → café stop and backstreets." },
+            { "content": "Plenty of indoor pauses, fewer crowds, easy return for evening cocktails." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day5",
+      "dayNum": 5,
+      "date": "2025-11-21",
+      "title": "Departure Morning",
+      "locations": [
+        { "name": "Deák Ferenc tér", "lat": 47.4970, "lng": 19.0545, "type": "station", "address": "Deák Ferenc tér, Budapest" },
+        { "name": "Budapest Airport", "lat": 47.4367, "lng": 19.2556, "type": "airport", "address": "BUD, Terminal 2" }
+      ],
+      "activities": [
+        { "id": "day5-checkout", "name": "Check out by 10:00" },
+        { "id": "day5-transfer", "name": "100E to airport (leave ~07:50)" },
+        { "id": "day5-flight", "name": "easyJet U28732 departure 10:25" }
+      ],
+      "sections": [
+        {
+          "type": "text",
+          "title": "Departure Morning - Friday 21 November",
+          "titleSize": "lg"
+        },
+        {
+          "type": "text",
+          "title": "For 10:25 flight",
+          "content": "Walk to **Deák Ferenc tér** and take **100E** to the airport, journey approximately 40 mins. Aim to be at BUD by **08:35** to keep a 90 min buffer. Safe latest leave from Klauzál tér **approximately 07:50**."
+        },
+        {
+          "type": "text",
+          "content": "**Contingency:** leave approximately 07:30 for extra slack. If the 100E is disrupted, use **200E** via Kőbánya-Kispest, but only if needed."
+        },
+        {
+          "type": "text",
+          "content": "_Much more civilised departure time. Proper breakfast possible._"
+        },
+        { "type": "divider" },
+        {
+          "type": "infoBox",
+          "title": "Important reminders",
+          "items": [
+            "Check out by 10:00 (leave belongings in lockbox if needed)",
+            "100E single ticket (2,200 HUF) from Deák Ferenc tér",
+            "Backpack only, no checked luggage",
+            "Terminal 2, easyJet U28732, 10:25 → 12:15"
+          ]
+        }
+      ]
+    }
+  ]
+}

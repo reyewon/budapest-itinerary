@@ -4,15 +4,11 @@ import TripSelector from './components/TripSelector';
 
 // Import all trip configs
 import budapestConfig from './trips/budapest.json';
-
-// Add more trips here as you create them:
-// import tokyoConfig from './trips/tokyo.json';
-// import lisbonConfig from './trips/lisbon.json';
+import malagaConfig from './trips/malaga.json';
 
 const allTrips = [
+  malagaConfig,
   budapestConfig,
-  // tokyoConfig,
-  // lisbonConfig,
 ];
 
 export default function App() {

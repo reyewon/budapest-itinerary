@@ -1,0 +1,475 @@
+{
+  "id": "malaga-apr-2026",
+  "city": "Malaga",
+  "country": "Spain",
+  "title": "Malaga, 22-25 Apr 2026",
+  "subtitle": "Four days exploring Andalusia's coastal gem — sun-drenched tapas bars, sunset catamarans, and a cliff-edge day trip to Ronda.",
+  "dateRange": "Wednesday 22nd - Saturday 25th April, 2026",
+  "timezone": "Europe/Madrid",
+  "coordinates": { "lat": 36.7213, "lng": -4.4214 },
+  "theme": {
+    "primaryColor": "#2E86AB",
+    "primaryHover": "#256F8E",
+    "secondaryColor": "#D4A574",
+    "secondaryHover": "#C49464",
+    "accentBg": "#EBF5FB",
+    "sidebarBg": "#faf8f5"
+  },
+  "images": {
+    "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/M%C3%A1laga%2C_Spain_%2848794718631%29.jpg/1920px-M%C3%A1laga%2C_Spain_%2848794718631%29.jpg",
+    "bannerAlt": "Malaga harbour and cathedral from the sea at golden hour",
+    "bannerFallback": "Malaga+Harbour",
+    "dayImages": {
+      "day1": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Catedral_de_la_Encarnaci%C3%B3n_de_M%C3%A1laga02.jpg/1280px-Catedral_de_la_Encarnaci%C3%B3n_de_M%C3%A1laga02.jpg",
+        "alt": "Malaga Cathedral rising above the old town rooftops at golden hour",
+        "fallback": "Malaga+Cathedral"
+      },
+      "day2": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Puente_Nuevo%2C_Ronda%2C_M%C3%A1laga%2C_Espa%C3%B1a_%2814%29.jpg/1280px-Puente_Nuevo%2C_Ronda%2C_M%C3%A1laga%2C_Espa%C3%B1a_%2814%29.jpg",
+          "alt": "Ronda's Puente Nuevo bridge spanning the dramatic El Tajo gorge",
+          "fallback": "Ronda+Puente+Nuevo",
+          "position": "top"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ronda_Tajo_de_Ronda.jpg/1280px-Ronda_Tajo_de_Ronda.jpg",
+          "alt": "White houses perched on the cliff edge overlooking the gorge in Ronda",
+          "fallback": "Ronda+Gorge",
+          "position": "mid"
+        }
+      ],
+      "day3": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Puerto_de_M%C3%A1laga_01.jpg/1280px-Puerto_de_M%C3%A1laga_01.jpg",
+          "alt": "Malaga port and marina at sunset with mountains in the background",
+          "fallback": "Malaga+Port+Sunset",
+          "position": "top"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Playa_de_la_Malagueta%2C_M%C3%A1laga%2C_Espa%C3%B1a.jpg/1280px-Playa_de_la_Malagueta%2C_M%C3%A1laga%2C_Espa%C3%B1a.jpg",
+          "alt": "Playa de la Malagueta beach with palm trees and clear Mediterranean water",
+          "fallback": "Malagueta+Beach",
+          "position": "mid"
+        }
+      ],
+      "day4": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Farola_de_M%C3%A1laga%2C_M%C3%A1laga%2C_Espa%C3%B1a.jpg/800px-Farola_de_M%C3%A1laga%2C_M%C3%A1laga%2C_Espa%C3%B1a.jpg",
+        "alt": "La Farola lighthouse at Malaga port with palm trees",
+        "fallback": "Malaga+Farola"
+      }
+    }
+  },
+  "translation": {
+    "sourceLang": "en",
+    "targetLang": "es",
+    "sourceLabel": "English",
+    "targetLabel": "Spanish",
+    "sourcePlaceholder": "Type in English...",
+    "targetPlaceholder": "Escribe en español...",
+    "commonPhrases": "Hola (Hello) • Gracias (Thank you) • ¿Cuánto cuesta? (How much?) • La cuenta, por favor (The bill, please)"
+  },
+  "currency": {
+    "home": { "code": "GBP", "symbol": "£", "label": "GBP (£)" },
+    "local": { "code": "EUR", "symbol": "€", "label": "EUR (€)" },
+    "defaultHomeAmount": "50",
+    "defaultLocalAmount": "58",
+    "defaultRate": 1.16
+  },
+  "accommodation": {
+    "name": "Coeo Frailes Design Apartments",
+    "address": "Calle Frailes 9-11, 29012 Malaga",
+    "checkIn": "15:00 on 22 Apr",
+    "checkOut": "11:00 on 25 Apr",
+    "instructions": "Check-in at Coeo Pod Hostel, Calle Beatas 20 (short walk). Smart-lock keyless entry at the apartment.",
+    "searchQuery": "Coeo+Frailes+Design+Apartments+Malaga"
+  },
+  "flights": {
+    "outbound": {
+      "airline": "TBC",
+      "flightNumber": "TBC",
+      "route": "UK → AGP",
+      "date": "Wed 22 Apr",
+      "times": "TBC"
+    },
+    "return": {
+      "airline": "TBC",
+      "flightNumber": "TBC",
+      "route": "AGP → UK",
+      "date": "Sat 25 Apr",
+      "times": "TBC"
+    }
+  },
+  "transport": {
+    "airportTransfer": {
+      "name": "Airport Express Bus (Line A)",
+      "details": "Every 20 mins from AGP to city centre (Paseo del Parque). ~€3, takes 20-25 mins. Or train (Line C1) from airport station to Malaga Centro-Alameda, ~12 mins, ~€1.80.",
+      "note": "The Express Bus A drops you closest to the old town. Taxi to centre is around €15-20."
+    },
+    "gettingAround": {
+      "modes": "Walking primarily. Everything in the centre is within 15-20 mins on foot.",
+      "app": "Moovit or Google Maps",
+      "appNote": "For day trips, buses depart from Estación de Autobuses (Paseo de los Tilos). Trains from María Zambrano station."
+    }
+  },
+  "weather": {
+    "summary": "Late April is warm and sunny. Expect 20-24°C daytime, dropping to 13-15°C after dark. Sea temperature around 17°C — refreshing but swimmable for the bold. Occasional light rain possible but unlikely. Sunset around 21:00.",
+    "monthLabel": "April"
+  },
+  "packing": "Light layers, sunglasses, sun cream, comfortable walking shoes for cobblestones, swimwear, a light jacket for evenings on the water, camera for Ronda's gorge.",
+  "farewell": "Hope you and Claire had an amazing time in Malaga!",
+  "footer": "Have an incredible trip to Malaga!",
+  "alternatives": {
+    "Romancero": {
+      "name": "Uvedoble Taberna",
+      "address": "Calle del Cister 15, Malaga",
+      "why": "Modern Malagueno tapas near the Roman Theatre. Three portion sizes for flexible sharing.",
+      "dishes": "Ajoblanco, aubergine with cane honey, Ibérico pork.",
+      "prices": "Tapas €5-12, mains ~€15-20"
+    },
+    "La Cosmo": {
+      "name": "Beluga",
+      "address": "Plaza de las Flores 3, Malaga",
+      "why": "Mediterranean seafood and exceptional rice dishes in a gorgeous square with orange trees.",
+      "dishes": "Shell-free rice with monkfish, grilled sea bass.",
+      "prices": "Mains €18-30"
+    },
+    "La Barra de Zapata": {
+      "name": "Meson Mariano",
+      "address": "Calle Granados 2, Malaga",
+      "why": "Family-run since 1988, seasonal Andalusian home cooking. Locals' favourite.",
+      "dishes": "Fried fish, pork cheeks, seasonal market dishes.",
+      "prices": "Mains €12-20"
+    },
+    "El Tapeo de Cervantes": {
+      "name": "Kortxo",
+      "address": "Old town, Malaga",
+      "why": "Creative fusion tapas with excellent tasting menu value.",
+      "dishes": "Seasonal tasting plates, creative sharing dishes.",
+      "prices": "Tasting menu ~€30-40pp"
+    },
+    "Chester & Punk": {
+      "name": "The Pharmacy Speakeasy",
+      "address": "Calle Garcia Briz 3, Malaga",
+      "why": "Prohibition-era speakeasy with low lighting, jazz, and herbal-infused cocktails. Walk-in only.",
+      "drinks": "House favourite: Krypton. Classic and creative options.",
+      "prices": "Cocktails €10-14"
+    },
+    "Mañana Cocktail Bar": {
+      "name": "Puerta Oscura",
+      "address": "Calle Molina Lario 5, Malaga",
+      "why": "Victorian time-capsule bar from 1991. Period-dressed waiters, armchairs, classical music. Unique atmosphere.",
+      "drinks": "Legendary gin and tonics, classic cocktails.",
+      "prices": "Cocktails €7-9"
+    },
+    "The Pharmacy Speakeasy": {
+      "name": "Baires Coffee & Drinks",
+      "address": "Calle Mendez Nunez 9, Malaga",
+      "why": "Argentinian-run, classy without pretension. Terrace and indoor seating.",
+      "drinks": "Piña colada in pineapple glass, classic cocktails.",
+      "prices": "Cocktails €8-12"
+    },
+    "Meson Iberico": {
+      "name": "Solera Soho",
+      "address": "Soho district, Malaga",
+      "why": "National Gastronomy Awards 2025 Gold Medal winner. Revived Malaga classics with a blind tasting menu.",
+      "dishes": "Blind tasting menu, modern Malaga cuisine.",
+      "prices": "Tasting menu ~€30-40pp"
+    }
+  },
+  "days": [
+    {
+      "id": "day1",
+      "dayNum": 1,
+      "date": "2026-04-22",
+      "title": "Arrival & Old Town Evening",
+      "walkingEstimate": "4-5 km",
+      "locations": [
+        { "name": "Coeo Frailes", "lat": 36.7232, "lng": -4.4173, "type": "accommodation", "address": "Calle Frailes 9-11, 29012 Malaga" },
+        { "name": "Plaza de la Merced", "lat": 36.7237, "lng": -4.4189, "type": "attraction", "address": "Plaza de la Merced, Malaga" },
+        { "name": "Calle Larios", "lat": 36.7198, "lng": -4.4230, "type": "attraction", "address": "Calle Marqués de Larios, Malaga" },
+        { "name": "Romancero", "lat": 36.7204, "lng": -4.4226, "type": "restaurant", "address": "Pasaje Chinitas 11, Malaga" },
+        { "name": "Chester & Punk", "lat": 36.7210, "lng": -4.4195, "type": "bar", "address": "Calle Mendez Nunez 4, Malaga" }
+      ],
+      "activities": [
+        { "id": "day1-arrival", "name": "Airport transfer to Coeo Frailes" },
+        { "id": "day1-explore", "name": "Wander Plaza de la Merced and old town streets" },
+        { "id": "day1-dinner", "name": "Dinner at Romancero" },
+        { "id": "day1-cocktails", "name": "Cocktails at Chester & Punk" }
+      ],
+      "sections": [
+        {
+          "type": "image",
+          "imageKey": "day1"
+        },
+        {
+          "type": "text",
+          "title": "Airport → Calle Frailes 9-11",
+          "content": "Route: **Express Bus A** from airport to **Paseo del Parque** (20 mins, ~€3) then 10 min walk through the old town to the apartment. Alternative: **C1 train** to María Zambrano then walk 15 mins. Check in at **Coeo Pod Hostel on Calle Beatas 20** first to collect your smart-lock access.",
+          "wet": "Same route — everything is covered arcades and narrow streets."
+        },
+        { "type": "divider" },
+        {
+          "type": "text",
+          "title": "Late afternoon wander",
+          "content": "Ease into the trip with a stroll from your door. **Plaza de la Merced** is 1 minute away — Picasso's birthplace square, great for people-watching. Then drift south through the narrow streets towards **Calle Larios** (the main pedestrian boulevard) and **Plaza de la Constitución**. The old town is gorgeous in the golden hour light — all warm stone, iron balconies, and jasmine."
+        },
+        { "type": "divider" },
+        {
+          "type": "venue",
+          "venueName": "Romancero",
+          "heading": "Dinner at Romancero",
+          "time": "20:30",
+          "address": "Pasaje Chinitas 11, Malaga",
+          "searchQuery": "Romancero+Pasaje+Chinitas+Malaga",
+          "description": "Charming spot tucked into the historic Pasaje Chinitas alley. Warm host, traditional Andalusian tapas done with care. The octopus leg is exceptional, and the gambas al ajillo are properly garlicky. Closed Tuesdays — you're here on Wednesday so you're fine.",
+          "descriptionLabel": "Why it fits you:",
+          "rating": "Google 4.7 (~690 reviews)",
+          "priceLabel": "Prices",
+          "prices": "Tapas and mains approximately €20-35 per person."
+        },
+        {
+          "type": "venue",
+          "venueName": "Chester & Punk",
+          "heading": "Cocktails at Chester & Punk",
+          "time": "22:30",
+          "address": "Calle Mendez Nunez 4, Malaga",
+          "searchQuery": "Chester+Punk+Malaga",
+          "description": "Your favourite from last time — still thriving. Two-sided concept: the Chester side has Chesterfield sofas and old-school elegance; the Punk side has neon, graffiti, and louder energy. Tiki-style glasses (pandas, skulls, octopuses). Try The Walking Dead (limited to two per person). Awarded a star by Top Cocktail Bars guide.",
+          "descriptionLabel": "Why it fits you:",
+          "rating": "Google 4.5 · Falstaff 92 points",
+          "priceLabel": "Drinks",
+          "prices": "Cocktails €10-20."
+        }
+      ]
+    },
+    {
+      "id": "day2",
+      "dayNum": 2,
+      "date": "2026-04-23",
+      "title": "Day Trip to Ronda",
+      "walkingEstimate": "8-10 km in Ronda",
+      "locations": [
+        { "name": "María Zambrano Station", "lat": 36.7124, "lng": -4.4319, "type": "station", "address": "Explanada de la Estación, Malaga" },
+        { "name": "Puente Nuevo", "lat": 36.7396, "lng": -5.1671, "type": "attraction", "address": "Puente Nuevo, Ronda" },
+        { "name": "Plaza de Toros", "lat": 36.7410, "lng": -5.1660, "type": "attraction", "address": "Plaza de Toros, Ronda" },
+        { "name": "El Tapeo de Cervantes", "lat": 36.7216, "lng": -4.4169, "type": "restaurant", "address": "Calle Carcer 8, Malaga" },
+        { "name": "The Pharmacy Speakeasy", "lat": 36.7215, "lng": -4.4200, "type": "bar", "address": "Calle Garcia Briz 3, Malaga" }
+      ],
+      "activities": [
+        { "id": "day2-train", "name": "Train to Ronda (09:07 departure)" },
+        { "id": "day2-puente", "name": "Puente Nuevo and El Tajo gorge" },
+        { "id": "day2-explore", "name": "Old Moorish quarter and viewpoints" },
+        { "id": "day2-lunch", "name": "Lunch in Ronda" },
+        { "id": "day2-return", "name": "Return train to Malaga (~17:00)" },
+        { "id": "day2-dinner", "name": "Dinner at El Tapeo de Cervantes" },
+        { "id": "day2-cocktails", "name": "Cocktails at The Pharmacy Speakeasy" }
+      ],
+      "sections": [
+        { "type": "image", "imageKey": "day2", "imageIndex": 0 },
+        {
+          "type": "text",
+          "title": "Early start for Ronda",
+          "content": "This is the one day to set an alarm. **Train departs María Zambrano at 09:07**, changes at Antequera-Santa Ana, arrives Ronda ~11:15. Fare from **€13.80 one way** — book on Renfe. The mountain scenery on the approach is stunning. Allow 15 mins walk from your apartment to the station.",
+          "note": "Book train tickets in advance on renfe.com — they do sell out."
+        },
+        { "type": "divider" },
+        {
+          "type": "text",
+          "title": "Puente Nuevo & El Tajo Gorge",
+          "content": "One of the most dramatic sights in all of Spain. The bridge spans a 120m deep gorge — free to walk across. Best photo spots: **Mirador Puente Nuevo** (the classic angle), **Arco del Cristo viewpoint** (from below), and **Mirador de Aldehuela**. The **Camino del Desfiladero del Tajo** (€5) takes you along the cliff face to the base of the bridge — outstanding for photography."
+        },
+        { "type": "image", "imageKey": "day2", "imageIndex": 1 },
+        {
+          "type": "text",
+          "title": "Old Moorish Quarter",
+          "content": "After the bridge, wander **La Ciudad** — the old Moorish quarter with cobblestone streets and whitewashed houses. **Jardines de Cuenca** (rose gardens with gorge views) are lovely. The **Plaza de Toros** is one of Spain's oldest bullrings and architecturally striking even if bullfighting isn't your thing."
+        },
+        {
+          "type": "optionBox",
+          "title": "Lunch in Ronda",
+          "content": "You'll find plenty of options around Plaza España and the old town. Look for places with gorge views — locals recommend spots on **Calle Virgen de la Paz** or near the Alameda del Tajo park. Try **rabo de toro** (oxtail stew) — Ronda's signature dish."
+        },
+        { "type": "divider" },
+        {
+          "type": "text",
+          "content": "**17:00** Return train to Malaga. You'll be back by ~19:15 with time to freshen up before dinner."
+        },
+        { "type": "divider" },
+        {
+          "type": "venue",
+          "venueName": "El Tapeo de Cervantes",
+          "heading": "Dinner at El Tapeo de Cervantes",
+          "time": "20:30",
+          "address": "Calle Carcer 8, Malaga",
+          "searchQuery": "El+Tapeo+de+Cervantes+Malaga",
+          "description": "Creative tapas institution with a strong local following. Intimate but properly seated — no perching at a bar. The tuna ceviche with avocado and crispy plantain is a standout, and the wine list is excellent. **Book ahead** — call +34 952 609 458. Closed Mondays (you're here Thursday).",
+          "descriptionLabel": "Why it fits you:",
+          "rating": "Google 4.5 (~4,300 reviews on TripAdvisor)",
+          "priceLabel": "Prices",
+          "prices": "Creative tapas approximately €25-40 per person."
+        },
+        {
+          "type": "venue",
+          "venueName": "The Pharmacy Speakeasy",
+          "heading": "Cocktails at The Pharmacy Speakeasy",
+          "time": "22:30",
+          "address": "Calle Garcia Briz 3, Malaga",
+          "searchQuery": "The+Pharmacy+Speakeasy+Malaga",
+          "description": "Prohibition-era speakeasy with low lighting, jazz, and vintage decor. Award-winning bartender. House favourite: Krypton. Complimentary water and snacks with your cocktails. Walk-in only — no reservations. Mon-Thu open 7pm-2am.",
+          "descriptionLabel": "Why it fits you:",
+          "rating": "Google 4.7 (~1,370 reviews)",
+          "priceLabel": "Drinks",
+          "prices": "Cocktails €10-14. Old Fashioned €16."
+        }
+      ]
+    },
+    {
+      "id": "day3",
+      "dayNum": 3,
+      "date": "2026-04-24",
+      "title": "Beach, Tapas & Sunset Catamaran",
+      "walkingEstimate": "7-8 km",
+      "locations": [
+        { "name": "Playa de la Malagueta", "lat": 36.7168, "lng": -4.4103, "type": "beach", "address": "Playa de la Malagueta, Malaga" },
+        { "name": "Muelle Uno", "lat": 36.7146, "lng": -4.4172, "type": "attraction", "address": "Muelle Uno, Puerto de Malaga" },
+        { "name": "La Cosmo", "lat": 36.7196, "lng": -4.4197, "type": "restaurant", "address": "Calle Cister 11, Malaga" },
+        { "name": "Alcazaba", "lat": 36.7214, "lng": -4.4167, "type": "attraction", "address": "Calle Alcazabilla, Malaga" },
+        { "name": "Mañana Cocktail Bar", "lat": 36.7220, "lng": -4.4195, "type": "bar", "address": "Calle San Juan de Letran 7, Malaga" }
+      ],
+      "activities": [
+        { "id": "day3-beach", "name": "Morning at Playa de la Malagueta" },
+        { "id": "day3-lunch", "name": "Lunch at La Cosmo (Michelin Bib Gourmand)" },
+        { "id": "day3-alcazaba", "name": "Explore Alcazaba and Roman Theatre area" },
+        { "id": "day3-catamaran", "name": "Sunset catamaran cruise from Muelle Uno" },
+        { "id": "day3-dinner", "name": "Tapas at Meson Iberico" },
+        { "id": "day3-cocktails", "name": "Cocktails at Mañana" }
+      ],
+      "sections": [
+        { "type": "image", "imageKey": "day3", "imageIndex": 0 },
+        {
+          "type": "text",
+          "title": "Morning at the beach",
+          "content": "**11:00** Walk 15 mins from the apartment to **Playa de la Malagueta** — the city's main beach. It's sandy, clean, and backed by palm-lined promenades. In late April expect ~24°C air and ~17°C sea — refreshing but swimmable if you're brave. There are chiringuitos (beach bars) for a cold drink.",
+          "wet": "Skip the beach and head to the Centre Pompidou Malaga (the colourful cube on the port) — quick visit of the temporary exhibitions."
+        },
+        { "type": "divider" },
+        {
+          "type": "venue",
+          "venueName": "La Cosmo",
+          "heading": "Lunch at La Cosmo",
+          "time": "13:30",
+          "address": "Calle Cister 11, Malaga",
+          "searchQuery": "La+Cosmo+Restaurant+Malaga",
+          "description": "Michelin Bib Gourmand restaurant by chef Dani Carnero (who also runs Michelin-starred Kaleja). Modern Andalusian seafood with an open kitchen. The interior won an iF Design Award — sleek, white-toned, contemporary. Try the hake salad (the chef's mother's recipe, singled out by Michelin inspectors). Sit at the bar facing the kitchen for the best experience. **Closed Sundays** — you're here Friday.",
+          "descriptionLabel": "Why it fits you:",
+          "rating": "Michelin Bib Gourmand · Google 4.4 (~840 reviews)",
+          "priceLabel": "Prices",
+          "prices": "Lunch approximately €40-55 per person."
+        },
+        { "type": "divider" },
+        {
+          "type": "text",
+          "title": "Afternoon exploring",
+          "content": "**15:30** Walk off lunch through the streets around the **Cathedral** and up to the **Alcazaba** area. You've been here before but it's worth revisiting the views from the terraces in the afternoon light. The **Roman Theatre** below is free to view. Wander the streets of the old town — Calle San Agustín, Calle Granada — looking for street art and photography angles.",
+          "wet": "CAC Malaga (Centre for Contemporary Art) — free entry, usually has interesting exhibitions in the converted wholesale market building."
+        },
+        { "type": "image", "imageKey": "day3", "imageIndex": 1 },
+        {
+          "type": "infoBox",
+          "title": "Sunset Catamaran Cruise",
+          "items": [
+            "**Mundo Marino** sunset catamaran — 1.5 hours from Muelle Uno",
+            "Departs late afternoon (check exact time for April 24th)",
+            "**€18 per person** — includes a glass of cava",
+            "Live music on Fridays! You're here on Friday 🎵",
+            "Bar on board (sangrias ~€5). Net seating area €6 extra",
+            "Arrive 30 mins before departure",
+            "Book at mundomarino.es/en/malaga-port/"
+          ]
+        },
+        { "type": "divider" },
+        {
+          "type": "simpleVenue",
+          "heading": "Tapas at Meson Iberico",
+          "time": "21:00",
+          "address": "Soho district, Malaga",
+          "searchQuery": "Meson+Iberico+Malaga",
+          "description": "The Soho district standout — 20+ years running, packed with locals. Proper sit-down tapas, not standing at a bar. Over 3,500 Google reviews at 4.7 stars. Everything is good but the Ibérico cuts are the star.",
+          "prices": "Tapas approximately €15-25 per person."
+        },
+        {
+          "type": "venue",
+          "venueName": "Mañana Cocktail Bar",
+          "heading": "Late drinks at Mañana",
+          "time": "23:00",
+          "address": "Calle San Juan de Letran 7, Malaga",
+          "searchQuery": "Manana+Cocktail+Bar+Malaga",
+          "description": "Small, cozy, charming — feels like a local secret. Run by a Latvian owner who came for Erasmus and stayed. 80+ cocktails on the menu. The raspberry daiquiri is legendary. Warm and unpretentious with great music. Can get busy (which adds atmosphere). More intimate than Chester & Punk — nice contrast.",
+          "descriptionLabel": "Why it fits you:",
+          "rating": "Google 4.7 (~1,100 reviews)",
+          "priceLabel": "Drinks",
+          "prices": "Cocktails reasonable — lower end of Malaga cocktail bar prices."
+        }
+      ]
+    },
+    {
+      "id": "day4",
+      "dayNum": 4,
+      "date": "2026-04-25",
+      "title": "Final Morning & Departure",
+      "walkingEstimate": "3-4 km",
+      "locations": [
+        { "name": "Atarazanas Market", "lat": 36.7182, "lng": -4.4261, "type": "attraction", "address": "Calle Atarazanas, Malaga" },
+        { "name": "La Barra de Zapata", "lat": 36.7201, "lng": -4.4215, "type": "restaurant", "address": "Near the Cathedral, Malaga" },
+        { "name": "Soho Street Art", "lat": 36.7155, "lng": -4.4265, "type": "attraction", "address": "Soho / CAC area, Malaga" }
+      ],
+      "activities": [
+        { "id": "day4-market", "name": "Browse Atarazanas Market" },
+        { "id": "day4-brunch", "name": "Late brunch at La Barra de Zapata" },
+        { "id": "day4-soho", "name": "Final wander through Soho street art" },
+        { "id": "day4-depart", "name": "Head to airport" }
+      ],
+      "sections": [
+        {
+          "type": "image",
+          "imageKey": "day4"
+        },
+        {
+          "type": "text",
+          "title": "Last morning in Malaga",
+          "content": "**10:30** Check out of Coeo Frailes (checkout by 11:00). They offer luggage storage at the Pod Hostel on Calle Beatas — drop your bags there."
+        },
+        { "type": "divider" },
+        {
+          "type": "text",
+          "content": "**11:00** If you haven't revisited **Atarazanas Market** yet, swing through — the Moorish gate entrance is beautiful, and the stalls inside are great for picking up last-minute olives, spices, or dried fruit to take home. Best on weekday mornings."
+        },
+        { "type": "divider" },
+        {
+          "type": "venue",
+          "venueName": "La Barra de Zapata",
+          "heading": "Brunch at La Barra de Zapata",
+          "time": "12:00",
+          "address": "Near the Cathedral, Malaga",
+          "searchQuery": "La+Barra+de+Zapata+Malaga",
+          "description": "Family-owned, central, atmospheric — the best El Pimpi alternative without the tourist crowds. Cathedral views, highly rated by locals. A perfect final meal.",
+          "descriptionLabel": "Why it fits you:",
+          "rating": "Google 4.7 (~2,500 reviews)",
+          "priceLabel": "Prices",
+          "prices": "Tapas and mains approximately €20-35 per person."
+        },
+        { "type": "divider" },
+        {
+          "type": "text",
+          "content": "**13:30** Final stroll through **Soho** if time allows — check for any new murals since your last visit. Then collect bags from Calle Beatas and head to the airport via **Express Bus A** from Paseo del Parque or grab a taxi (~€15-20, 15 mins)."
+        },
+        {
+          "type": "optionBox",
+          "title": "If you have extra time",
+          "content": "**Rooftop drink**: AC Hotel Malaga Palacio (ATICO Bar) on the 15th floor — the highest rooftop bar in Malaga with 360° views over the city, harbour, and Mediterranean. Cocktails €8-15. Perfect if your flight is later.\n\nor **Flamenco**: If you haven't caught a show, **Peña Juan Breva** on Calle Beatas 21 (right where your luggage is!) has the world's oldest flamenco pena with a museum and genuine performances."
+        }
+      ]
+    }
+  ]
+}
